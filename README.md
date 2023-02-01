@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning arout Wireless Networks and SwiftUI!
-📫 Emails: 
-    School: sigetyg@bc.edu 
-    Personal: sigetyg@gmail.com
+- 📫 Emails: 
+     - School: sigetyg@bc.edu 
+     - Personal: sigetyg@gmail.com
 
 <!--
 **sigetg/sigetg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
