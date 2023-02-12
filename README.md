@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning arout Wireless Networks and SwiftUI!
+- 🌱 I am a current Boston College student learning arout Wireless Networks and SwiftUI!
 - 📫 Emails: 
      - School: sigetyg@bc.edu 
      - Personal: sigetyg@gmail.com
