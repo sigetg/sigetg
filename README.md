@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I am a current Boston College student learning arout Wireless Networks and SwiftUI!
+- I have experience in C, Python, Java, and now Swift
 - 📫 Emails: 
      - School: sigetyg@bc.edu 
      - Personal: sigetyg@gmail.com
