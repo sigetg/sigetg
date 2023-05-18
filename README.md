@@ -1,9 +1,6 @@
 ### Hi there 👋
 - 🌱 I am a current Boston College student learning about Wireless Networks and SwiftUI!
 - I have experience in C, Python, Java, and most recently Swift
-- 📫 Emails: 
-     - School: sigetyg@bc.edu 
-     - Personal: sigetyg@gmail.com
 
 <!--
 **sigetg/sigetg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
