@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I am a current Boston College student learning about Wireless Networks and SwiftUI!
-- I have experience in C, Python, Java, Swift, and am learning JavaScript.
+- 🌱 I am a current Boston College student learning Ruby on Rails!
+- I have experience in C, Python, Java, Swift, and Ruby.
 
 <!--
 **sigetg/sigetg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
