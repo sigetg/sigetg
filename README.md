@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I am a current Boston College student learning Ruby on Rails!
-- I have experience in C, Python, Java, Swift, and Ruby.
+- 🌱 I am a current Boston College student studying Computer Science!
+- I have experience in Java, Python, Swift, C, and Ruby (rails).
 
 <!--
 **sigetg/sigetg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
