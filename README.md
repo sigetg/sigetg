@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Working @ CTVBuyer as Lead Software Engineer
-- Currently developing in Node.js/React, but also work in Rust, C, Java, Python, Swift, and Ruby (rails).
+- Currently developing the CTVDashboard in Node.js/React, but also work in Rust, C, Java, Python, Swift, and Ruby (rails).
 
 <!--
 **sigetg/sigetg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
