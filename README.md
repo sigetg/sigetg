@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Leading development of the CTVDashboard @ CTVBuyer.
+- Leading development of Streamline and the CTVDashboard @ CTVBuyer.
 - Currently developing in Node.js/React, but also work in Rust, C, Java, Python, Swift, and Ruby (rails).
 
 <!--
